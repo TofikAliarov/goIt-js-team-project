@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/TofikAliarov/JS-team-project"
+    "url": "https://github.com/TofikAliarov/goIt-js-team-projectt"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/luxplanjay/webpack-starter-kit/issues"
   },
-  "homepage": "https://tofikaliarov.github.io/JS-team-project/",
+  "homepage": "https://tofikaliarov.github.io/goIt-js-team-project/",
   "devDependencies": {
     "@babel/core": "^7.11.4",
     "@babel/plugin-proposal-class-properties": "^7.10.4",
